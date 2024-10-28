@@ -1,3 +1,2 @@
 # Portfolio-ACS
-Coursework1-portfolio
-pro12
+Coursework1-portfolio  on github account
